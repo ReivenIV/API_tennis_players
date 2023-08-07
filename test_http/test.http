@@ -1,0 +1,28 @@
+// ---------------------------
+//    Players Endpoints
+// ---------------------------
+
+###
+GET http://localhost:5000/api/v1/players/all
+Content-Type: application/json
+
+###
+GET http://localhost:5000/api/v1/players/by_id/17
+Content-Type: application/json
+
+###
+GET http://localhost:5000/api/v1/players/by_sex_type/M
+Content-Type: application/json
+
+
+// ---------------------------
+//    Statistics Endpoints
+// ---------------------------
+
+###
+GET http://localhost:5000/api/v1/statistics/all
+Content-Type: application/json
+
+###
+GET http://localhost:5000/api/v1/statistics/by_sex_type/M
+Content-Type: application/json
