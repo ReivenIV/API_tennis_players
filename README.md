@@ -15,7 +15,7 @@ Welcome to the README for the **Tennis Players API**! This API provides endpoint
   - [Players Endpoints](#players-endpoints)
   - [Statistics Endpoints](#statistics-endpoints)
   - [Contributing](#contributing)
-  - [License](#license)
+  - [Feel free](#feel-free)
 
 ## Getting Started
 
@@ -114,10 +114,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your fork.
 5. Submit a pull request detailing your changes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
+## Feel free
 
 Feel free to explore the API endpoints, experiment with player data, and integrate this API into your applications. If you have any questions or need assistance, don't hesitate to reach out. Happy coding! 🎾
