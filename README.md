@@ -1,10 +1,10 @@
-# Tennis Players API
+# API Tennis Players 
 
 Welcome to the README for the **Tennis Players API**! This API provides endpoints to manage tennis player data and statistics. Whether you're a tennis enthusiast, a developer, or just curious, this API has you covered. Below, you'll find information on how to set up the API, available endpoints, and more.
 
 ## Table of Contents
 
-- [Tennis Players API](#tennis-players-api)
+- [API Tennis Players](#api-tennis-players)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
